@@ -10,7 +10,7 @@
 - Currently finishing my studies in Cyber Security and Business from Purdue University.
 - Taking online business courses from Duke and Wharton Online.
 - PHD in creating start ups that go bankrupt within a year & nearly bankrupt the owners.
-- Masters Degree in brutal honest.
+- Masters Degree in brutal honesty.
 - Elementry Drop Out in Emotional Control, when I care about someone too deeply. (this was meant for someone close if they read this I'm sober now full time.)
 - **Certifications:**
   - Cisco Cyber Ops Associate
