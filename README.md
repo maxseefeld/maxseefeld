@@ -45,6 +45,7 @@ I have a deep passion for technology and always strive to learn and experiment w
 - Illegal Drag Racing
 - Crypto Mining
 - EDM Music
+- Formerly writing love letters.
 - Raves 
 - Long walks on the beach with females, while holding hands & looking at all the things the future has in store for us.
 - Playing the Guitar
@@ -55,4 +56,6 @@ I have a deep passion for technology and always strive to learn and experiment w
 - **Phone:** 561-850-5255
 
 Feel free to reach out if you want to collaborate on a project, need advice, or just want to chat about tech!
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=maxwellseefeld.maxwellseefeld)
+
 
