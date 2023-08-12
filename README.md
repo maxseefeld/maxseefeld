@@ -1,4 +1,3 @@
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=maxwellseefeld.maxwellseefeld)
 # 👋 Hi there, I'm Maxwell Seefeld!
 
 ## 🛠️ Technologies & Languages I Know:
