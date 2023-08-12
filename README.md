@@ -47,7 +47,7 @@ I have a deep passion for technology and always strive to learn and experiment w
 - EDM Music
 - Formerly writing love letters.
 - Raves 
-- Long walks on the beach with females, while holding hands & looking at all the things the future has in store for us.
+- Long walks on the beach with females, while holding hands & looking at all the things the future has in store for us. While we sit & watch the sunset in front of us,
 - Playing the Guitar
 - Lover of Sparkling Water that requires adventures in a locked buildings that require me to scale into a 2nd story window.
 
