@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Maxwell Seefeld!
 
 ## 🛠️ Technologies & Languages I Know:
-- **Languages:** Rust, C, C++, Java, Javascript, Python, SQL, Carbon, Go, Solidity, HTML, CSS, Yaml, Ocamel, Too dumb for Qskitt, but let's just pretend I know it. 
+- **Languages:** Rust, C, C++, Java, Javascript, Python, SQL, Carbon, Go, Solidity, HTML, CSS, Yaml, Ocamel, too dumb for Qskitt, but let's just pretend I know it. 
 - **Cloud Platforms:** IBM Cloud, GCP, Azure, OpenStack
 - **Specializations:** Machine Learning, AI
 - **Interests:** I'm a huge fan of unikernels, experimental operating systems, anything that's Unix-based, fintech, and cryptocurrencies.
