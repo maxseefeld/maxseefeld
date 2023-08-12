@@ -45,6 +45,7 @@ I have a deep passion for technology and always strive to learn and experiment w
 - Drag Racing
 - Crypto Mining
 - EDM Music
+- Looking for political campaigns regardless of their political affiliation to sponsor.
 - Formerly writing love letters.
 - Raves 
 - Long walks on the beach with females, while holding hands & looking at all the things the future has in store for us. While we sit & watch the sunset in front of us,
