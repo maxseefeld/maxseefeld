@@ -42,7 +42,6 @@ I have a deep passion for technology and always strive to learn and experiment w
 ## 🎉 Hobbies:
 - butchering the spanish language over text as a gringo.
 - Jiujitsu
-- Drag Racing
 - Crypto Mining
 - EDM Music
 - Looking for political campaigns regardless of their political affiliation to sponsor.
