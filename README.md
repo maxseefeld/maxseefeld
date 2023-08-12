@@ -10,8 +10,9 @@
 - Currently finishing my studies in Cyber Security and Business from Purdue University.
 - Taking online business courses from Duke and Wharton Online.
 - PHD in creating start ups that go bankrupt within a year & nearly bankrupt the owners.
+- PHD in getting away with stupid activities on the computer.
 - Masters Degree in brutal honesty.
-- Elementry Drop Out in Emotional Control, when I care about someone too deeply. (this was meant for someone close if they read this I'm sober now full time.)
+- Elementary Drop Out in Emotional Control, when I care about someone too deeply. (this was meant for someone close if they read this I'm sober now full time.)
 - **Certifications:**
   - Cisco Cyber Ops Associate
   - Google Certified Project Manager
@@ -38,10 +39,17 @@
 ## 📚 A Little More About Me:
 I have a deep passion for technology and always strive to learn and experiment with new things. My current focus is on unikernels, experimental operating systems, fintech, and cryptocurrencies, as I believe they hold the key to the future of computing. I'm also a big fan of anything Unix-based, as it provides a solid foundation for many of the technologies we use today.
 
-With a rich background in certifications and recognitions from leading institutions, I'm gearing up to make significant contributions to the tech world. As I wrap up my studies in Cyber Security and Business at Purdue, continue my business courses from Duke and Wharton Online, and leverage my diverse certifications, I'm also preparing to dive deep into the world of penetration testing by studying for my OSCP certification. But before that, I'm focused on stabilizing my cash flow, ensuring the success of my startup projects, and revolutionizing the cellular industry with my ventures.
+## 🎉 Hobbies:
+- Jiujitsu
+- Illegal Drag Racing
+- Crypto Mining
+- EDM Music
+- Long walks on the beach with females
+- Playing the Guitar
+- Lover of Sparkling Water that requires adventures in a locked buildings that require me to scale into a 2nd story window.
 
 ## 📫 How to Reach Me:
-- [Email] maxwell@x15.ai
+- **Email:** [maxwell@x15.ai](mailto:maxwell@x15.ai)
 - **Phone:** 561-850-5255
 
 Feel free to reach out if you want to collaborate on a project, need advice, or just want to chat about tech!
