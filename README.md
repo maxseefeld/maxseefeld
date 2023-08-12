@@ -44,6 +44,7 @@ I have a deep passion for technology and always strive to learn and experiment w
 - Jiujitsu
 - Drag Racing
 - Crypto Mining
+- Looking into getting more tattoos
 - EDM Music
 - Looking for political campaigns regardless of their political affiliation to sponsor.
 - Formerly writing love letters.
