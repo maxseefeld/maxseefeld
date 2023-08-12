@@ -1,3 +1,4 @@
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=maxwellseefeld.maxwellseefeld)
 # 👋 Hi there, I'm Maxwell Seefeld!
 
 ## 🛠️ Technologies & Languages I Know:
@@ -56,6 +57,5 @@ I have a deep passion for technology and always strive to learn and experiment w
 - **Phone:** 561-850-5255
 
 Feel free to reach out if you want to collaborate on a project, need advice, or just want to chat about tech!
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=maxwellseefeld.maxwellseefeld)
 
 
