@@ -38,7 +38,7 @@ I have a deep passion for technology and always strive to learn and experiment w
 With a rich background in certifications and recognitions from leading institutions, I'm gearing up to make significant contributions to the tech world. As I wrap up my studies in Cyber Security and Business at Purdue, continue my business courses from Duke and Wharton Online, and leverage my diverse certifications, I'm also preparing to dive deep into the world of penetration testing by studying for my OSCP certification. But before that, I'm focused on stabilizing my cash flow, ensuring the success of my startup projects, and revolutionizing the cellular industry with my ventures.
 
 ## 📫 How to Reach Me:
-- [Email](mailto:maxwell@x15.ai)
+- [Email] maxwell@x15.ai
 - **Phone:** 561-850-5255
 
 Feel free to reach out if you want to collaborate on a project, need advice, or just want to chat about tech!
