@@ -35,6 +35,9 @@
 - **Cyber Security Services:** [Serapis Cyber](https://serapiscyber.com)
 - **Cyber Tool Creation:** [X15.ai](https://x15.ai)
 - **Personal Website:** [MaxwellSeefeld.info](https://maxwellseefeld.info)
+- **Mine Craft Server Hosting:** [Xanjohn.xyz](https://xanjohn.xyz)
+- **Mine Craft Server Hosting:** [Xanjohn.online](https://xanjohn.online)
+
 
 ## 📚 A Little More About Me:
 I have a deep passion for technology and always strive to learn and experiment with new things. My current focus is on unikernels, experimental operating systems, fintech, and cryptocurrencies, as I believe they hold the key to the future of computing. I'm also a big fan of anything Unix-based, as it provides a solid foundation for many of the technologies we use today.
