@@ -35,8 +35,8 @@
 - **Cyber Security Services:** [Serapis Cyber](https://serapiscyber.com)
 - **Cyber Tool Creation:** [X15.ai](https://x15.ai)
 - **Personal Website:** [MaxwellSeefeld.info](https://maxwellseefeld.info)
-- **Mine Craft Server Hosting:** [Xanjohn.xyz](https://xanjohn.xyz)
-- **Mine Craft Server Hosting:** [Xanjohn.online](https://xanjohn.online)
+- **Mine Craft Server Hosting:** [Xanjohn.xyz](https://xanjohn.xyz) He couldnt pay the technology bill for his politcal capaign & I had to do something with the domain.
+- **Mine Craft Server Hosting:** [Xanjohn.online](https://xanjohn.online) He couldnt pay the technology bill for his politcal capaign & I had to do something with the domain.Xan is not affiliated with this event his egotistic narcacism will have you believe that.
 
 
 ## 📚 A Little More About Me:
