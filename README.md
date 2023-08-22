@@ -56,7 +56,7 @@ I have a deep passion for technology and always strive to learn and experiment w
 
 ## 📫 How to Reach Me:
 - **Email:** [maxwell@x15.ai](mailto:maxwell@x15.ai)
-- **Phone:** 561-850-5255
+- **Phone:** 786-529-6213
 
 Feel free to reach out if you want to collaborate on a project, need advice, or just want to chat about tech!
 
